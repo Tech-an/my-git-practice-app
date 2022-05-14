@@ -1,4 +1,4 @@
 test
 test2
 
-CONFLICT_TEST\_\_\_
+conflict_test
